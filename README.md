@@ -15,6 +15,7 @@ Building secure, useful technology for a more connected world.
 I'm a computer engineer and entrepreneur interested in cybersecurity, applied AI, cloud infrastructure, and building products that solve real problems.
 
 - 🔭 Building **[Panafricanet](https://www.panafricanet.com)** — travel eSIM connectivity and an evolving Secure Travel Suite.
+- 🏝️ Created **[CacauIsland](https://www.cacauisland.com)** — a traveltech platform designed to simplify payments, bookings, and the discovery of local experiences in São Tomé and Príncipe.
 - 🛡️ Interested in secure systems, network security, threat detection, and privacy-by-design.
 - 🧠 Exploring machine learning for practical security applications.
 - 🌍 From São Tomé and Príncipe.
@@ -35,8 +36,10 @@ I'm a computer engineer and entrepreneur interested in cybersecurity, applied AI
 
 Travel connectivity focused on Africa, with a Secure Travel Suite under development to bring additional cybersecurity capabilities to travellers and businesses.
 
+### 🏝️ CacauIsland
 
-</div>
+A traveltech platform created to make it easier for travellers to discover experiences, make reservations, and complete payments in São Tomé and Príncipe.
+
 
 ## Connect
 
